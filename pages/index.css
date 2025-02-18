@@ -126,6 +126,10 @@
   gap: 100px;
   list-style: none;
 }
+
+.recipes__iframe {
+  border: none;
+}
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
